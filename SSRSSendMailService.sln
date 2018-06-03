@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSRSSendMailService", "SSRSSendMailService\SSRSSendMailService.csproj", "{0AE01BDA-5367-4118-AD0A-285A47FE05EB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SSRSSendMailSetup", "SSRSSendMailSetup\SSRSSendMailSetup.vdproj", "{8CE8CC10-ABD3-4AA7-B037-1826CDEEA5C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE01BDA-5367-4118-AD0A-285A47FE05EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE01BDA-5367-4118-AD0A-285A47FE05EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE01BDA-5367-4118-AD0A-285A47FE05EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE01BDA-5367-4118-AD0A-285A47FE05EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE8CC10-ABD3-4AA7-B037-1826CDEEA5C8}.Debug|Any CPU.ActiveCfg = Debug
+		{8CE8CC10-ABD3-4AA7-B037-1826CDEEA5C8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACDE0E9F-C952-4677-8CF6-EA004B1C7D2E}
+	EndGlobalSection
+EndGlobal
